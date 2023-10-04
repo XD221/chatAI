@@ -1,0 +1,103 @@
+/* Colors */
+:root {
+    --default-black-color: #060606;
+    --black-1-color: #c4c4c4;
+    --black-2-color: #b2b2b2;
+    --black-3-color: #a0a0a0;
+    --black-4-color: #8e8e8e;
+    --black-5-color: #7c7c7c;
+    --black-6-color: #6b6b6b;
+    --black-7-color: #595959;
+    --black-8-color: #474747;
+    --black-9-color: #353535;
+    --black-10-color: #232323;
+}
+/*  Background  */
+.bg-black-default {
+    background-color: var(--default-black-color);
+}
+
+.bg-black-1 {
+    background-color: var(--black-1-color);
+}
+
+.bg-black-2 {
+    background-color: var(--black-2-color);
+}
+
+.bg-black-3 {
+    background-color: var(--black-3-color);
+}
+
+.bg-black-4 {
+    background-color: var(--black-4-color);
+}
+
+.bg-black-5 {
+    background-color: var(--black-5-color);
+}
+
+.bg-black-6 {
+    background-color: var(--black-6-color);
+}
+
+.bg-black-7 {
+    background-color: var(--black-7-color);
+}
+
+.bg-black-8 {
+    background-color: var(--black-8-color);
+}
+
+.bg-black-9 {
+    background-color: var(--black-9-color);
+}
+
+.bg-black-10 {
+    background-color: var(--black-10-color);
+}
+
+/* letter */
+.txt-black-default {
+    color: var(--default-black-color);
+}
+
+.txt-black-1 {
+    color: var(--black-1-color);
+}
+
+.txt-black-2 {
+    color: var(--black-2-color);
+}
+
+.txt-black-3 {
+    color: var(--black-3-color);
+}
+
+.txt-black-4 {
+    color: var(--black-4-color);
+}
+
+.txt-black-5 {
+    color: var(--black-5-color);
+}
+
+.txt-black-6 {
+    color: var(--black-6-color);
+}
+
+.txt-black-7 {
+    color: var(--black-7-color);
+}
+
+.txt-black-8 {
+    color: var(--black-8-color);
+}
+
+.txt-black-9 {
+    color: var(--black-9-color);
+}
+
+.txt-black-10 {
+    color: var(--black-10-color);
+}

@@ -1,0 +1,103 @@
+/* Colors */
+:root {
+    --default-red-color: #c00000;
+    --red-1-color: #ff8989;
+    --red-2-color: #f66;
+    --red-3-color: #ff4242;
+    --red-4-color: #ff1e1e;
+    --red-5-color: #f90000;
+    --red-6-color: #d60000;
+    --red-7-color: #b20000;
+    --red-8-color: #8e0000;
+    --red-9-color: #6b0000;
+    --red-10-color: #470000;
+}
+/*  Background  */
+.bg-red-default {
+    background-color: var(--default-red-color);
+}
+
+.bg-red-1 {
+    background-color: var(--red-1-color);
+}
+
+.bg-red-2 {
+    background-color: var(--red-2-color);
+}
+
+.bg-red-3 {
+    background-color: var(--red-3-color);
+}
+
+.bg-red-4 {
+    background-color: var(--red-4-color);
+}
+
+.bg-red-5 {
+    background-color: var(--red-5-color);
+}
+
+.bg-red-6 {
+    background-color: var(--red-6-color);
+}
+
+.bg-red-7 {
+    background-color: var(--red-7-color);
+}
+
+.bg-red-8 {
+    background-color: var(--red-8-color);
+}
+
+.bg-red-9 {
+    background-color: var(--red-9-color);
+}
+
+.bg-red-10 {
+    background-color: var(--red-10-color);
+}
+
+/* letter */
+.txt-red-default {
+    color: var(--default-red-color);
+}
+
+.txt-red-1 {
+    color: var(--red-1-color);
+}
+
+.txt-red-2 {
+    color: var(--red-2-color);
+}
+
+.txt-red-3 {
+    color: var(--red-3-color);
+}
+
+.txt-red-4 {
+    color: var(--red-4-color);
+}
+
+.txt-red-5 {
+    color: var(--red-5-color);
+}
+
+.txt-red-6 {
+    color: var(--red-6-color);
+}
+
+.txt-red-7 {
+    color: var(--red-7-color);
+}
+
+.txt-red-8 {
+    color: var(--red-8-color);
+}
+
+.txt-red-9 {
+    color: var(--red-9-color);
+}
+
+.txt-red-10 {
+    color: var(--red-10-color);
+}

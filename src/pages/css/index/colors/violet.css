@@ -1,0 +1,103 @@
+/* Colors */
+:root {
+    --default-violet-color: #8c2a98;
+    --violet-1-color: #dea3e5;
+    --violet-2-color: #d487dd;
+    --violet-3-color: #ca6bd6;
+    --violet-4-color: #c04fce;
+    --violet-5-color: #b436c3;
+    --violet-6-color: #9a2ea7;
+    --violet-7-color: #80268b;
+    --violet-8-color: #671e6f;
+    --violet-9-color: #4d1753;
+    --violet-10-color: #330f37;
+}
+/*  Background  */
+.bg-violet-default {
+    background-color: var(--default-violet-color);
+}
+
+.bg-violet-1 {
+    background-color: var(--violet-1-color);
+}
+
+.bg-violet-2 {
+    background-color: var(--violet-2-color);
+}
+
+.bg-violet-3 {
+    background-color: var(--violet-3-color);
+}
+
+.bg-violet-4 {
+    background-color: var(--violet-4-color);
+}
+
+.bg-violet-5 {
+    background-color: var(--violet-5-color);
+}
+
+.bg-violet-6 {
+    background-color: var(--violet-6-color);
+}
+
+.bg-violet-7 {
+    background-color: var(--violet-7-color);
+}
+
+.bg-violet-8 {
+    background-color: var(--violet-8-color);
+}
+
+.bg-violet-9 {
+    background-color: var(--violet-9-color);
+}
+
+.bg-violet-10 {
+    background-color: var(--violet-10-color);
+}
+
+/* letter */
+.txt-violet-default {
+    color: var(--default-violet-color);
+}
+
+.txt-violet-1 {
+    color: var(--violet-1-color);
+}
+
+.txt-violet-2 {
+    color: var(--violet-2-color);
+}
+
+.txt-violet-3 {
+    color: var(--violet-3-color);
+}
+
+.txt-violet-4 {
+    color: var(--violet-4-color);
+}
+
+.txt-violet-5 {
+    color: var(--violet-5-color);
+}
+
+.txt-violet-6 {
+    color: var(--violet-6-color);
+}
+
+.txt-violet-7 {
+    color: var(--violet-7-color);
+}
+
+.txt-violet-8 {
+    color: var(--violet-8-color);
+}
+
+.txt-violet-9 {
+    color: var(--violet-9-color);
+}
+
+.txt-violet-10 {
+    color: var(--violet-10-color);
+}
